@@ -1,3 +1,5 @@
 requests
 mysql-connector-python
-gql 
+gql
+aiohttp
+python-dotenv 
